@@ -6,9 +6,31 @@
   padding: 0;
 }
 
+:root {
+  --clr-neutral: 0 0% 100%;
+  --clr-bg: 212 45% 89%;
+  --clr-text: 220 15% 55%;
+  --clr-heading: 218 44% 22%;
+
+  --ff-outfit: 'Outfit', sans-serif;
+  --fz-text: 15px;
+}
+
 html,
 body {
   height: 100%;
+}
+
+body {
+  font-family: var(--ff-outfit);
+  font-size: var(--fz-text);
+  background-color: hsl(var(--clr-bg));
+  color: hsl(var(--clr-text));
+  padding: 1.75rem;
+}
+
+h1 {
+  color: hsl(var(--clr-heading));
 }
 
 img {
