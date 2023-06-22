@@ -21,12 +21,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![QR Code Component Desktop Screenshot](./screenshots/desktop.png)
+![QR Code Component Desktop Screenshot](https://devshaunb.github.io/fem-qr-code-component/screenshots/desktop.png)
 
-![QR Code Component Mobile Screenshot](./screenshots/mobile.png)
+![QR Code Component Mobile Screenshot](https://devshaunb.github.io/fem-qr-code-component/screenshots/mobile.png)
 
 ### Links
 
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-using-flexbox-i26V9x_NJg](https://www.frontendmentor.io/solutions/qr-code-component-using-flexbox-i26V9x_NJg)
 - Live Site URL: [https://devshaunb.github.io/fem-qr-code-component](https://devshaunb.github.io/fem-qr-code-component)
 
 ## Reference
