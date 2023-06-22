@@ -41,7 +41,7 @@ img {
   width: 100%;
 }
 
-.card {
+main {
   width: 20rem;
   padding: 1rem;
   background-color: hsl(var(--clr-neutral));
