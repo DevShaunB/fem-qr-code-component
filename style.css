@@ -17,12 +17,8 @@
   --fz-text: 15px;
 }
 
-html,
 body {
-  height: 100%;
-}
-
-body {
+  min-height: 100vh;
   font-family: var(--ff-outfit);
   font-size: var(--fz-text);
   background-color: hsl(var(--clr-bg));
